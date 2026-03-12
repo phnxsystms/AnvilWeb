@@ -1,0 +1,14 @@
+{
+  "lodash-es": "latest",
+  "react": "latest",
+  "react-dom": "latest",
+  "three": "latest",
+  "d3": "latest",
+  "axios": "latest",
+  "date-fns": "latest",
+  "chart.js": "latest",
+  "gsap": "latest",
+  "p5": "latest",
+  "fabric": "latest",
+  "moment": "latest"
+}
